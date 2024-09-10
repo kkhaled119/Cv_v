@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a61d04d4.css",
+    "main.js": "/static/js/main.da726254.js",
+    "static/media/book_store.png": "/static/media/book_store.5a61bbfd81c012dd7932.png",
+    "static/media/restaurant.png": "/static/media/restaurant.2e9845ce6d2940b95b8a.png",
+    "static/media/carhub.png": "/static/media/carhub.461b9de11a03e1f1b8fa.png",
+    "static/media/Dubai.png": "/static/media/Dubai.4d50f82b1ea5a693d143.png",
+    "static/media/khaled2.png": "/static/media/khaled2.4192f5ac47244d2e8ec9.png",
+    "index.html": "/index.html",
+    "main.a61d04d4.css.map": "/static/css/main.a61d04d4.css.map",
+    "main.da726254.js.map": "/static/js/main.da726254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a61d04d4.css",
+    "static/js/main.da726254.js"
+  ]
+}
